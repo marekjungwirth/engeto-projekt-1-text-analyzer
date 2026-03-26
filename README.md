@@ -1,2 +1,2 @@
-# Engeto-ukoly
-Místo, kde zpracovávám a odevzdávám úkoly do kurzu od Engeto
+# Prvni ukol
+Nebudu lhat, docela se bojim, ale snad to bude v poradku.
